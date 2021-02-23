@@ -1,0 +1,61 @@
+POKEMON SOULBOUND CREDITS
+CONCEPT -
+RainbowKappa
+
+GRAPHICS / ART -
+Intro Pokeball and Letter GFX Originally Provided By Relic Castle Staff for Winter Jam 2021
+Pokeball Edited w/ Sepia Filter By RainbowKappa
+Intro ANNOUCER NPC By Relic Castle Staff for Winter Jam 2021
+Rival Blue NPC By Essentials Team (Base Resources)
+Protag NPC Edit / Black Outfit (INTRO) Edited By RainbowKappa
+VS Portraits Edited by RainbowKappa
+Logo by fontmeme
+Thundaga Sprites by Emdy & Thundaga 
+https://imgur.com/a/3zncwdV
+Thundaga Sprites Edited By RainbowKappa
+Thundaga Drip Edited by RainbowKappa
+Game .ico by RainbowKappa
+
+TILESETS -
+Aigue--marine | Exterior 
+https://reliccastle.com/resources/15/ (2nd Spoiler)
+
+FONTS -
+Haley Wakamatsu - Determination Sans
+https://www.behance.net/gallery/31268855/Determination-Better-Undertale-Font
+
+MUSIC - 
+Megalovania, Home by Toby Fox (UNDERTALE)
+Megalovania "Sword/Shield / TrainerTale" Rearrangement by AuraBoi
+Base Music is by Respective Authors (Nintendo, GameFreak, Etc)
+Soundfonts by LugiaDialga 
+http://www.victoryroad.net/showthread.php?t=10227
+
+ENGINE - 
+MKXP-Z | Roza 
+https://gitlab.com/mkxp-z/mkxp-z
+
+"Pokémon Essentials" was created by:
+Flameguru, Poccil (Peter O.), Maruno
+
+With contributions from:
+AvatarMonkeyKirby, Marin, Boushy, MiDas Mike, Brother1440, Near Fantastica, FL., PinkMan, Genzai Kawakami, Popper, help-14, Rataime, IceGod64, SoundSpawn, Jacob O. Wobbrock, the__end, KitsuneKouta, Venom12, Lisa Anthony, Wachunga, Luka S.J. and everyone else who helped out.
+
+Mid Battle Dialogue/Scripted Battles -
+Script by Golisopod User
+https://www.pokecommunity.com/showthread.php?p=10228615
+
+GameFreak | BGMs for the official Title Screen tracks​​
+Luka S.J. | Example Designs, graphics and code​
+Luka S.J. | Modular Pause Menu​ & Title Screen
+Luka S.J. | Scripting Utilities​
+https://luka-sj.com/
+
+BW Save Screen | HDrawer (based on shiney570 script)
+https://reliccastle.com/resources/460/
+
+Random Battle Generator | ☆Rei☆
+https://www.pokecommunity.com/showthread.php?t=318091
+
+Pokemon Gen 8 PBS | UberDunsparce
+https://www.pokecommunity.com/showthread.php?t=442507
